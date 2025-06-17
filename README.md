@@ -1,16 +1,24 @@
 ## Hi there 👋
+Nombre del estudiante: "Mateo Ponce de León"
+Materia: "Programacion IV"
 
-<!--
-**mateoponten4/mateoponten4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indicé:
+-- Primera parte:
+- Volumen                    
+- Variedad                      
+- Complejidad                  
+- Librerias de Python          
+- Pip                         
+- Formato csv                 
+- Pandas                      
+- Dataframme                
+- Tabulares
+-- Segunda parte:                   
+- Seaborn
+- Markdown
+-- Extras:
+- Actividades
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##Primera Parte:
+  
