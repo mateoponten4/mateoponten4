@@ -4,7 +4,7 @@ Materia: "Programacion IV"
 
 Indicé:
 
-#Primera parte:
+# Primera parte:
 - Volumen                    
 - Variedad                      
 - Complejidad                  
@@ -15,13 +15,22 @@ Indicé:
 - Dataframme                
 - Tabulares
 
-#Segunda parte:                   
+# Segunda parte:                   
 - Seaborn
 - Markdown
 
-#Extras:
+# Extras:
 - Actividades
 
 
-##Primera Parte:
-  
+## Primera Parte:
+  ### https://github.com/mateoponten4/PrimeraParte
+
+## Segunda Parte:
+- Seaborn:
+-- https://github.com/mateoponten4/Segundaparte-Seaborn-
+- Markdown:
+-- https://github.com/mateoponten4/Segundaparte-Markdown-
+
+## Extras:
+- https://github.com/mateoponten4/Actividadesmateoponten4
