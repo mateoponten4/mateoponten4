@@ -4,8 +4,7 @@ Materia: "Programacion IV"
 
 Indicé:
 
---Primera parte:
-
+#Primera parte:
 - Volumen                    
 - Variedad                      
 - Complejidad                  
@@ -16,14 +15,13 @@ Indicé:
 - Dataframme                
 - Tabulares
 
--- Segunda parte:                   
-
+#Segunda parte:                   
 - Seaborn
 - Markdown
--- Extras:
 
+#Extras:
 - Actividades
 
 
-  ##Primera Parte:
+##Primera Parte:
   
