@@ -3,7 +3,9 @@ Nombre del estudiante: "Mateo Ponce de León"
 Materia: "Programacion IV"
 
 Indicé:
--- Primera parte:
+
+--Primera parte:
+
 - Volumen                    
 - Variedad                      
 - Complejidad                  
@@ -13,10 +15,13 @@ Indicé:
 - Pandas                      
 - Dataframme                
 - Tabulares
+
 -- Segunda parte:                   
+
 - Seaborn
 - Markdown
 -- Extras:
+
 - Actividades
 
 
