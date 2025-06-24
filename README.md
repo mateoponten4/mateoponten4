@@ -34,3 +34,6 @@ Indicé:
 
 ## Extras:
 - https://github.com/mateoponten4/Actividadesmateoponten4
+
+## Encuesta:
+- https://github.com/mateoponten4/encuesta/blob/main/README.md
